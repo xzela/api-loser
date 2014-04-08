@@ -1,0 +1,19 @@
+{
+  "name": "api-loser",
+  "version": "0.0.1",
+  "description": "simple app to test for lost api connections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"lol, no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xzela/api-loser.git"
+  },
+  "author": "Zeph LaFassett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xzela/api-loser/issues"
+  },
+  "homepage": "https://github.com/xzela/api-loser"
+}
